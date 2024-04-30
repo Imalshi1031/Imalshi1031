@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Erandi Amarasekara</h1>
-<h4 align="center">A freelance developer  also a software engineering student at SLIIT, Sri Lanka</h4>
+<h4 align="center">A Computer Science\ student at SLIIT, Sri Lanka</h4>
 </div>
 
 <div align="center">
